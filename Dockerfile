@@ -1,1 +1,1 @@
-FROM gcr.io/fuzzbench/builders/fairfuzz
+FROM gcr.io/fuzzbench/builders/dispatcher-image
