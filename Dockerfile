@@ -1,1 +1,1 @@
-FROM gcr.io/fuzzbench/builders/dispatcher-image
+FROM gcr.io/fuzzbench/dispatcher-image
