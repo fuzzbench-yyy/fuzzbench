@@ -1,1 +1,1 @@
-FROM gcr.io/fuzzbench/builders/fastcgs
+FROM gcr.io/fuzzbench/dispatcher-image
