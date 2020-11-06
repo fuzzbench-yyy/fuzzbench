@@ -1,1 +1,1 @@
-FROM gcr.io/fuzzbench/builders
+FROM gcr.io/fuzzbench/builders/fairfuzz
