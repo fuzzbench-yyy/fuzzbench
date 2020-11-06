@@ -1,0 +1,1 @@
+FROM gcr.io/oss-fuzz-base/base-builder@sha256:12125f1ecb9e4905a19c35700a3402c1eba43c82ea2d227f01c28833d75e3574
