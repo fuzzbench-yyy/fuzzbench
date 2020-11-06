@@ -1,1 +1,1 @@
-FROM gcr.io/fuzzbench/*
+FROM gcr.io/fuzzbench/
